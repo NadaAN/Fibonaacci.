@@ -1,2 +1,2 @@
-# Fibonaacci.
+# Fibonaacci series.
 Bilangan Fibonacci
